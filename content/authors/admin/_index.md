@@ -4,7 +4,7 @@ name: Nazmul Alam
 
 # Username (this should match the folder name)
 authors:
-- Nazmul
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+  #icon_pack: fas
+  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nazmul-alam/
@@ -71,5 +71,4 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-
-My research focuses on analytical method development and validation for various samples. Liquid chromatography and mass spectrometry (high resolution and triple quadruple) are the primary instruments for the analysis. During the PhD research, I have developed mathematical modeles for sample extraction with solid phase microextraction technique (SPME). Web development and online teaching is my hobby. 
+My primary research focuses on analytical method development and validation for various samples. Liquid chromatography and mass spectrometry (high resolution and triple quadruple) are the primary instruments for the analysis. I have developed mathematical modeles for sample extraction with solid phase microextraction technique (SPME) during me PhD research at the University of Waterloo. Web development and online teaching is my hobby. 
