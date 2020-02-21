@@ -14,10 +14,10 @@
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    Powered by the
-    <a href="https://nazmulalam.ca" target="_blank" rel="noopener">Nazmul</a> for
+     Copyright
+    <!-- <a href="https://nazmulalam.ca" target="_blank" rel="noopener">Nazmul</a> for
  <a href="https://studylinks.best" target="_blank" rel="noopener">Study Links</a>.
-
+    -->
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
       <a href="#" class="back-to-top">
